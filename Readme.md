@@ -14,8 +14,10 @@ This is the repository where I'll be sharing my progress developing in Python.
     <li><a href="https://github.com/benattimatheus/100DaysPython/blob/main/Projeto3PTBRIlhaDoTesouro.ipynb">03. Ilha do Tesouro (Português-Brasil)</a> - Jogo de escolha usando as conditions</li>
     <li><a href="https://github.com/benattimatheus/100DaysPython/blob/main/Project4RockPaperScissors.ipynb">04. Rock Paper Scissors</a> - Building this famous game using the concepts of lists, conditions and randomization</li>
     <li><a href="https://github.com/benattimatheus/100DaysPython/blob/main/Project5PasswordGenerator.ipynb">05. Password Generator</a> - Created an random password generator that contains letters, symbols and numbers in a random order. The project was built using the concepts of randomization, lists and for loops</li>
-    <li><a href="https://github.com/benattimatheus/100DaysPython/blob/main/Project6Reeborg'sMaze.ipynb">06. Reeborg's World Solutions</a> - Puting in practice the knowledge of while loops, functions and conditions to solve problems at the Reeborg's World website</li>
-    </div>
+    <li><a href="https://github.com/benattimatheus/100DaysPython/blob/main/Project6Reeborg'sMaze.ipynb">06. Reeborg's World Solutions</a> - Putting into practice the knowledge of while loops, functions and conditions to solve problems at the Reeborg's World website</li>
+    <li><a href="https://github.com/benattimatheus/100DaysPython/tree/main/Project7HangMan">07. Hangman</a> - Project using loops, lists, conditions, randomization and modules to create the Hangman game</li>
+
+</div>
       
 <div align = "left">
   <h2>Credits</h2>
