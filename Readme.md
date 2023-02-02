@@ -16,7 +16,7 @@ This is the repository where I'll be sharing my progress developing in Python.
     <li><a href="https://github.com/benattimatheus/100DaysPython/blob/main/Project5PasswordGenerator.ipynb">05. Password Generator</a> - Created an random password generator that contains letters, symbols and numbers in a random order. The project was built using the concepts of randomization, lists and for loops</li>
     <li><a href="https://github.com/benattimatheus/100DaysPython/blob/main/Project6Reeborg'sMaze.ipynb">06. Reeborg's World Solutions</a> - Putting into practice the knowledge of while loops, functions and conditions to solve problems at the Reeborg's World website</li>
     <li><a href="https://github.com/benattimatheus/100DaysPython/tree/main/Project7HangMan">07. Hangman</a> - Project using loops, lists, conditions, randomization and modules to create the Hangman game</li>
-
+    <li><a href="https://github.com/benattimatheus/100DaysPython/tree/main/Project8CaesarCipher">08. Caesar Cipher</a> - Codification and decodification tool created by using for and while loops and creating functions to improve performance</li>
 </div>
       
 <div align = "left">
