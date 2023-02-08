@@ -20,7 +20,7 @@ This is the repository where I'll be sharing my progress developing in Python.
     <li><a href="https://github.com/benattimatheus/100DaysPython/tree/main/Project9SecretAuctionProgram">09. Secret Auction Program</a> - Auction program built using the Replit website and mainly dictionaries and nesting concepts</li>
     <li><a href="https://github.com/benattimatheus/100DaysPython/tree/main/Project10Calculator">10. Calculator</a> - Calculator with the main mathematical symbols. During this project I could understand why and how to use return in functions and manage to write the code in less lines</li>
     <li><a href="https://github.com/benattimatheus/100DaysPython/tree/main/Project11Blackjack">11. Blackjack (21)</a> - Blackjack Capstone game. Through this fun simple game project I improved my knowledge about loops and functions</li>
-    <li><a href=" ">12. </a></li>
+    <li><a href="https://github.com/benattimatheus/100DaysPython/tree/main/Project12GuessTheNumber">12. Number Guessing - During this game I tried to make it with two different solutions. One was focused on conditions and the other solution was focused on functions</a></li>
     
     
 </div>
