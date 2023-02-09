@@ -48,17 +48,3 @@ def game():
       print(f"Sorry, that's wrong. Final score {score}")
 
 game()
-#ver tamanho do dicionario data = 50
-#escolher 2 aleatórios inicialmente
-#fazer A vs B
-#manter o personagem B
-#quem está em B vai pra A
-#B recebe novo personagem
-
-#Compare A: nome, keys
-#art VS
-#Against B: nome, keys
-#Who was more followers? Type 'A' or 'B': 
-
-#Se acertar printar "You're right! Current score: x"
-#Se perder printar "Sorry, that's wrong. Final score: x"
