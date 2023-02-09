@@ -22,6 +22,7 @@ This is the repository where I'll be sharing my progress developing in Python.
     <li><a href="https://github.com/benattimatheus/100DaysPython/tree/main/Project11Blackjack">11. Blackjack (21)</a> - Blackjack Capstone game. Through this fun simple game project I improved my knowledge about loops and functions</li>
     <li><a href="https://github.com/benattimatheus/100DaysPython/tree/main/Project12GuessTheNumber">12. Number Guessing</a> - During this game I tried to make it with two different solutions. One was focused on conditions and the other solution was focused on functions</li>
     <li><a href="https://github.com/benattimatheus/100DaysPython/tree/main/Project13DebuggingPractice">13. Debugging Practice</a> - Practicing debugging, visualizing bugs, understanding, searching problems and using debuggers like PythonTutor to help find bugs</li>
+    <li><a href="">14. Higher Lower Game</a> - </li>
        
 </div>
       
