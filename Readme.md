@@ -7,6 +7,7 @@ This is the repository where I'll be sharing my progress developing in Python.
   
 <div align = "left">
   <h2> Projects </h2>
+  <h3> Beginner </h3>
   <ul>
     <li><a href="https://github.com/benattimatheus/100DaysPython/blob/main/Project1BandName.ipynb">01. Band Name Generator</a> - Project using the basics of variables and concatenate</li>
     <li><a href="https://github.com/benattimatheus/100DaysPython/blob/main/Project2TipCalculator.ipynb">02. Tip Calculator</a> - Understanding data types, simple math commands and string manipulation</li>
@@ -23,7 +24,16 @@ This is the repository where I'll be sharing my progress developing in Python.
     <li><a href="https://github.com/benattimatheus/100DaysPython/tree/main/Project12GuessTheNumber">12. Number Guessing</a> - During this game I tried to make it with two different solutions. One was focused on conditions and the other solution was focused on functions</li>
     <li><a href="https://github.com/benattimatheus/100DaysPython/tree/main/Project13DebuggingPractice">13. Debugging Practice</a> - Practicing debugging, visualizing bugs, understanding, searching problems and using debuggers like PythonTutor to help find bugs</li>
     <li><a href="https://github.com/benattimatheus/100DaysPython/tree/main/Project14HigherLower">14. Higher Lower Game</a> - Game built to help reinforce the concepts of functions and loops</li>
-       
+  </ul>
+  
+  <h3> Intermediate </h3>
+  <ul>
+  
+  <li><a href=" ">15. </a> - </li>
+  
+  </ul>
+  
+  
 </div>
       
 <div align = "left">
