@@ -29,7 +29,7 @@ This is the repository where I'll be sharing my progress developing in Python.
   <h3> Intermediate </h3>
   <ul>
   
-  <li><a href=" ">15. </a> - </li>
+  <li><a href="https://github.com/benattimatheus/100DaysPython/tree/main/Project15CoffeeMachine">15. Coffee Machine</a> - First project at intermediate level. Deeper use of logic and structures</li>
   
   </ul>
   
