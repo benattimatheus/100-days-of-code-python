@@ -31,6 +31,8 @@ This is the repository where I'll be sharing my progress developing in Python.
   
   <li><a href="https://github.com/benattimatheus/100DaysPython/tree/main/Project15CoffeeMachine">15. Coffee Machine</a> - First project at intermediate level. Deeper use of logic and structures</li>
   <li><a href="https://github.com/benattimatheus/100DaysPython/tree/main/Project16CoffeeMachineOOP/CoffeeMachineOOP">16. Object Oriented Programming Coffee Machine </a> - Introduction to Object Oriented Programming and Turtle module</li>
+  <li><a href="https://github.com/benattimatheus/100DaysPython/tree/main/Project17QuizGame">17. Quiz Game</a> - Quiz Game built with starting knowledge of classes , attributes, objects and methods</li>
+  
   </ul>
   
   
