@@ -32,9 +32,9 @@ This is the repository where I'll be sharing my progress developing in Python.
   <li><a href="https://github.com/benattimatheus/100DaysPython/tree/main/Project15CoffeeMachine">15. Coffee Machine</a> - First project at intermediate level. Deeper use of logic and structures</li>
   <li><a href="https://github.com/benattimatheus/100DaysPython/tree/main/Project16CoffeeMachineOOP/CoffeeMachineOOP">16. Object Oriented Programming Coffee Machine </a> - Introduction to Object Oriented Programming and Turtle module</li>
   <li><a href="https://github.com/benattimatheus/100DaysPython/tree/main/Project17QuizGame">17. Quiz Game</a> - Quiz Game built with starting knowledge of classes , attributes, objects and methods</li>
-  <li><a href="https://github.com/benattimatheus/100DaysPython/tree/main/Project18TheHirstPainting">18. The Hirst Painting</a> - Art piece created using Turtle 
-  <li><a href="https://github.com/benattimatheus/100DaysPython/tree/main/Project19EtchASketchAndRace/EtchASketch">19. Etch A Sketch</a> <a href="https://github.com/benattimatheus/100DaysPython/tree/main/Project19EtchASketchAndRace/TurtleRace"> and Turtle Race - </a> More knowledge and pratice of the Turtle library by building a drawing program and a turtle race with random speed and winner
-  
+  <li><a href="https://github.com/benattimatheus/100DaysPython/tree/main/Project18TheHirstPainting">18. The Hirst Painting</a> - Art piece created using Turtle</li> 
+  <li><a href="https://github.com/benattimatheus/100DaysPython/tree/main/Project19EtchASketchAndRace/EtchASketch">19. Etch A Sketch</a> <a href="https://github.com/benattimatheus/100DaysPython/tree/main/Project19EtchASketchAndRace/TurtleRace"> and Turtle Race - </a> More knowledge and pratice of the Turtle library by building a drawing program and a turtle race with random speed and winner</li>
+  <li><a href="https://github.com/benattimatheus/100DaysPython/tree/main/Project20SnakeGame">20. Snake Game</a> - Famous snake game using previous knowledge and learning inheritance and slicing to improve performance and reduce the code</li>
   
   </ul>
   
