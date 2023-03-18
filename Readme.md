@@ -37,6 +37,7 @@ This is the repository where I'll be sharing my progress developing in Python.
   <li><a href="https://github.com/benattimatheus/100DaysPython/tree/main/Project20SnakeGame">20. Snake Game</a> - Famous snake game using previous knowledge and learning inheritance and slicing to improve performance and reduce the code</li>
   <li><a href="https://github.com/benattimatheus/100DaysPython/tree/main/Project21Pong">21. Pong</a> - Simple Pong game built to practice Turtle concepts</li>
   <li><a href="https://github.com/benattimatheus/100DaysPython/tree/main/Project22TurtleCrossing">22. Turtle Crossing</a> - Turtle crossing the road game</li>
+  <li><a href="https://github.com/benattimatheus/100DaysPython/tree/main/Project23HighscoreAndMailMerge">23. Snake Game Highscore and Mail Merge</a> - Update to the Snake game, adding a highscore that saves itself in an outside txt file and a Mail Merge program to send a letter with the same content to different people and updating the names automatically</li>
    
   </ul>
   
