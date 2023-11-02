@@ -39,6 +39,9 @@ This is the repository where I'll be sharing my progress developing in Python.
   <li><a href="https://github.com/benattimatheus/100DaysPython/tree/main/Project22TurtleCrossing">22. Turtle Crossing</a> - Turtle crossing the road game</li>
   <li><a href="https://github.com/benattimatheus/100DaysPython/tree/main/Project23HighscoreAndMailMerge">23. Snake Game Highscore and Mail Merge</a> - Update to the Snake game, adding a highscore that saves itself in an outside txt file and a Mail Merge program to send a letter with the same content to different people and updating the names automatically</li>
   <li><a href="https://github.com/benattimatheus/100DaysPython/tree/main/Project24SquirrelCensusAndUSStatesGame">24. Squirrel Census and US States Quiz</a> - A census built using pandas library and filtering data. The other project is a Quiz Game to try to guess all the states of US</li>
+  <li>25. Review of concepts and upgrade of previous projects.</li>
+  <li><a href="https://github.com/benattimatheus/100DaysPython/tree/main/Project26NATOAlphabet">26. NATO Phonetic Alphabet Transformation</a> - A program built using pandas and concepts of list comprehension and dictionary comprehension in order to convert any word into the NATO Phonetic Alphabet.</li>
+
    
 
   </ul>
