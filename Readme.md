@@ -42,9 +42,9 @@ This is the repository where I'll be sharing my progress developing in Python.
   <li>25. Review of concepts and upgrade of previous projects.</li>
   <li><a href="https://github.com/benattimatheus/100DaysPython/tree/main/Project26NATOAlphabet">26. NATO Phonetic Alphabet Transformation</a> - A program built using pandas and concepts of list comprehension and dictionary comprehension in order to convert any word into the NATO Phonetic Alphabet.</li>
   <li><a href="https://github.com/benattimatheus/100DaysPython/blob/main/Project27MilesKMConverter/main.py">27. Miles to Kilometer Converter</a> - Program with a Graphical User Interface made with Tkinter. Study of unlimited arguments in a function with *args and **kwargs.</li>
+  <li><a href="https://github.com/benattimatheus/100DaysPython/tree/main/Project28Pomodoro">28. Pomodoro</a> - Pomodoro program build using Tkinter.</li>
+  <li><a href="https://github.com/benattimatheus/100DaysPython/tree/main/Project29PasswordManager">29. Password Manager</a> - A Password Manager that generates password, save the data and copy the password to your "Copy/Paste" built with Tkinter.</li>
 
-
-   
 
   </ul>
   
