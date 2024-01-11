@@ -44,6 +44,7 @@ This is the repository where I'll be sharing my progress developing in Python.
   <li><a href="https://github.com/benattimatheus/100DaysPython/blob/main/Project27MilesKMConverter/main.py">27. Miles to Kilometer Converter</a> - Program with a Graphical User Interface made with Tkinter. Study of unlimited arguments in a function with *args and **kwargs.</li>
   <li><a href="https://github.com/benattimatheus/100DaysPython/tree/main/Project28Pomodoro">28. Pomodoro</a> - Pomodoro program build using Tkinter.</li>
   <li><a href="https://github.com/benattimatheus/100DaysPython/tree/main/Project29PasswordManager">29. Password Manager</a> - A Password Manager that generates password, save the data and copy the password to your "Copy/Paste" built with Tkinter.</li>
+  <li>30. Handling Erros and using JSON - Update and refactoring of the NATO code and Password Manager, adding try and exceptions to erros and saving data with JSON.</li>
 
 
   </ul>
